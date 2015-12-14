@@ -1,3 +1,3 @@
-# xp-embedded-behavior
+# xp-embedded-bevaior
 
-See the [`documentation page`](http://expandjs.com/elements/xp-embedded-behavior) for more information.
+This repository **is deprecated**.
